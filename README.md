@@ -67,6 +67,7 @@ Run the script:
 Code
 
 python weather_monitoring.py
+
 The system will fetch weather data at regular intervals, store it in the SQLite database (weather.db), check for temperature thresholds, and visualize data in separate graphs for each city.
 
 To stop the system, press Ctrl + C in the terminal.
